@@ -1,0 +1,6 @@
+Hello, world!
+This line is appended to the file.
+this is demo line 1
+line 2 added
+line 5 added
+line 6 added into file
